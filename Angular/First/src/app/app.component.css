@@ -1,0 +1,13 @@
+.product img
+{
+  height: 300px;
+  width: 200px;
+}
+
+.product
+{
+    height: 450px;
+    width: 250px;
+    padding: 50px;
+    box-shadow: 5px 9px 12px black;
+}
