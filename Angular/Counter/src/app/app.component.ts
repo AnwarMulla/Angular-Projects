@@ -19,7 +19,7 @@ export class AppComponent {
   {
     if(this.count>=20)
     {
-      this.isDisabled=true
+      this.isDisabled=true;
     }
     else
     {

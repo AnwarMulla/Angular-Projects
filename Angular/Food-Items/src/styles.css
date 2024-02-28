@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    background-color: gray;
+}
+img
+{
+    height: 250px;
+    width: 300px;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px black;
+}
