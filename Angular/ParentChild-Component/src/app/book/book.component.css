@@ -1,0 +1,18 @@
+img
+{
+    height: 400px;
+    width: 300px;
+}
+.books{
+    height: 490px;
+    width: 400px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+}
+button
+{
+    background-color: black;
+    color: white;
+    margin: 2px;   
+}

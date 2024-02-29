@@ -23,5 +23,8 @@ export class AppComponent {
   img14="https://b.zmtcdn.com/data/pictures/chains/0/19584950/30f175847804f76f236f8a0fad7685be_featured_v2.jpg";
   img15="https://b.zmtcdn.com/data/pictures/2/20087272/c955ac3e29cd7ff59c9c4e69a9df523e_featured_v2.jpg";
   img16="https://b.zmtcdn.com/data/pictures/1/20782721/7069b313ec82a7e3c98cb32bc3a0e26d_featured_v2.jpg";
-
+  img17="https://b.zmtcdn.com/data/pictures/5/47875/126e570b6d94034c0d1ebe2fd64a62a5_featured_v2.jpg";
+  img18="https://b.zmtcdn.com/data/pictures/chains/1/47211/c460e7660d0ea7a4af56521267042874_featured_v2.jpg";
+  img19="https://b.zmtcdn.com/data/dish_photos/2c7/19b88df05c6e9793ebd892871df4c2c7.jpg?output-format=webp";
+  img20="https://b.zmtcdn.com/data/dish_photos/be5/9215294848187e38d28fd885d8ae2be5.jpg?output-format=webp";
 }
