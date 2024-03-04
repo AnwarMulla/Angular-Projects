@@ -1,4 +1,4 @@
-<app-header ></app-header><br><br>
+<app-header [cn]="c"></app-header><br><br>
 <div class="id">
   <app-book [image]="img1" [title]="title1"></app-book>
   <app-book [image]="img2" [title]="title2"></app-book>
@@ -7,4 +7,6 @@
   <app-book [image]="img5" [title]="title5"></app-book>
   <app-book [image]="img6" [title]="title6"></app-book>
 </div><br><br>
+<button (click)="incr()">+</button>
+
 <app-footer></app-footer>

@@ -18,4 +18,9 @@ export class AppComponent {
   title5="Book5";
   img6="../../assets/book6.jpg";
   title6="Book6";
+  c=0;
+  incr()
+  {
+    this.c++;
+  }
 }
