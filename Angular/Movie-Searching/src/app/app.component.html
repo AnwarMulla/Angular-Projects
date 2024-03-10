@@ -1,11 +1,10 @@
 <div class="main" [ngClass]="{'dark':isDark}">
-  <button (click)="change()">{{isDark ? '':'Dark Mode'}}</button>
+  <button (click)="change()">{{isDark ? 'Light Mode':'Dark Mode'}}</button>
   <h1>Movie Search</h1>
   <div [ngStyle]="{'display':isSuccess?'none':'block'}">
     <input type="text" placeholder="Enter the Movie Name" [(ngModel)]="st">
     <button (click)="search()">Search</button>
   </div>
-  <button>Search Again</button>
 <div class="movies">
   <div class="movie" *ngFor="let m of movies">
     <img src={{m.Poster}} alt={{m.Title}}>

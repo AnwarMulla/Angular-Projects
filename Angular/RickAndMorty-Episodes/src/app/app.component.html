@@ -1,0 +1,9 @@
+<h1>Rick And Morty Episodes</h1>
+<div class="episodes">
+  <div class="img-container" *ngFor="let e of Episodes">
+<img src={{e.image}} alt={{e.title}}>
+<h2>{{e.name}}</h2>
+<p>{{e.origin}}</p>
+</div>
+</div>
+
